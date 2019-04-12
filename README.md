@@ -38,4 +38,4 @@
   * that the server can start and that the logger can log a message in response to an event.
 
 #### UML
-Link to an image of the UML for your application and response to events
+Still need this...
