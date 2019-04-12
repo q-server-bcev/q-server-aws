@@ -12,18 +12,18 @@
   * [travis](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
   <!-- * [back-end](http://xyz.com) () -->
   * [jsdoc](http://localhost:3000/docs) (All assignments)
-* File Writer
-  * [PR](https://github.com/401-advanced-javascript-401d29/lab-19-message-queue-server/pull/1)
-  * [![Build Status](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
-  * [travis](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
+*  File Writer
+  * [PR](https://github.com/401-advanced-javascript-401d29/lab-19-file-writer/pull/1)
+  * [![Build Status](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19-file-writer.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19-file-writer)
+  * [travis](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19-file-writer)
   <!-- * [back-end](http://xyz.com) () -->
   * [jsdoc](http://localhost:3000/docs) (All assignments)
 * Message Queue API Server
-  * [PR](https://github.com/401-advanced-javascript-401d29/lab-19-message-queue-server/pull/1)
+  <!-- * [PR](https://github.com/401-advanced-javascript-401d29/lab-19-message-queue-server/pull/1)
   * [![Build Status](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
-  * [travis](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
+  * [travis](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19) -->
   <!-- * [back-end](http://xyz.com) () -->
-  * [jsdoc](http://localhost:3000/docs) (All assignments)
+  <!-- * [jsdoc](http://localhost:3000/docs) (All assignments) -->
 
 ### Setup
 #### `.env` requirements
