@@ -1,9 +1,9 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Message Queue Server
+## Q Server Deployment to AWS
 
-### Author: Erin Trainor
+### Author: Billy Bunn, Chris Merritt, Erin Trainor, Vanessa Wei
 
 ### Links, Resources and Documentation
 * Message Queue Server
