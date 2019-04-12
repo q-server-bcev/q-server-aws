@@ -10,37 +10,32 @@
   * [PR](https://github.com/401-advanced-javascript-401d29/lab-19-message-queue-server/pull/1)
   * [![Build Status](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
   * [travis](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
-  * [back-end](http://xyz.com) ()
+  <!-- * [back-end](http://xyz.com) () -->
   * [jsdoc](http://localhost:3000/docs) (All assignments)
 * File Writer
   * [PR](https://github.com/401-advanced-javascript-401d29/lab-19-message-queue-server/pull/1)
   * [![Build Status](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
   * [travis](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
-  * [back-end](http://xyz.com) ()
+  <!-- * [back-end](http://xyz.com) () -->
   * [jsdoc](http://localhost:3000/docs) (All assignments)
 * Message Queue API Server
   * [PR](https://github.com/401-advanced-javascript-401d29/lab-19-message-queue-server/pull/1)
   * [![Build Status](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19.svg?branch=master)](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
   * [travis](https://www.travis-ci.com/401-advanced-javascript-401d29/lab-19)
-  * [back-end](http://xyz.com) ()
+  <!-- * [back-end](http://xyz.com) () -->
   * [jsdoc](http://localhost:3000/docs) (All assignments)
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - 3000
 
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-  
 #### Tests
 * How do you run tests?
+  * npm run test
 * What assertions were made?
+  * that the logger exists
 * What assertions need to be / should be made?
+  * that the server can start and that the logger can log a message in response to an event.
 
 #### UML
 Link to an image of the UML for your application and response to events
